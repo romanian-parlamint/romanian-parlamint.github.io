@@ -16,9 +16,16 @@
   :PROPERTIES:
   :CUSTOM_ID: description
   :END:
-  Source code: [[https://github.com/romanian-parlamint][https://github.com/romanian-parlamint]]
-
   Work in progress...
+  ------
+** Source code
+   :PROPERTIES:
+   :CUSTOM_ID: src
+   :END:
+   #+attr_html: :target _blank
+   - [[https://github.com/romanian-parlamint][https://github.com/romanian-parlamint]] --- The GitHub page of the project.
+   - Repositories:
+     - [[https://github.com/romanian-parlamint/romanian-parlamint.github.io][romanian-parlamint.github.io]] --- The source code of this page.
 * Statistics
   :PROPERTIES:
   :CUSTOM_ID: stats
