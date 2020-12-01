@@ -48,6 +48,13 @@
   | Dec.             |   11 | 12 |    5 |  4 |    8 | 15 |    8 |  8 |    9 | 13 |      |  x |
   |------------------+------+----+------+----+------+----+------+----+------+----+------+----|
 
+  Number of political declarations per parliamentary day recorded in transcription calendar:
+  - CD: 1-200, most *20-30 / day*
+  - S: 1-100, most *10-15 / day*
+
+  Number of tokens / person (CD): *300-600 w.* / person
+
+  Number of tokens / day (S): *1000-15000 w.* / day
 * Team
   :PROPERTIES:
   :CUSTOM_ID: team
