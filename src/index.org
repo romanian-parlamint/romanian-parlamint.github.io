@@ -16,6 +16,8 @@
   :PROPERTIES:
   :CUSTOM_ID: description
   :END:
+  Source code: [[https://github.com/romanian-parlamint][https://github.com/romanian-parlamint]]
+
   Work in progress...
 * Statistics
   :PROPERTIES:
